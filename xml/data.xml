@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<!-- 2026-04-02 ebb: From meeting today, suggested new elements:
+*  <colorScheme> vs. <accentColor>
+* <flooring> (to help comment on carpeting vs. hard wood vs. linoleum)
+* <furnishing>
+* <window>
+
+-->
+
 <collection>
     
     <mag>
