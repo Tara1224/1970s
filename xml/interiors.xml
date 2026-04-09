@@ -5,15 +5,16 @@
     <mag>
         <ptr target=""/>
         <roomType>living room</roomType>
-        <colors>green, beige</colors>
+        <colors></colors>
         <style>modern</style>
         <materials>wood, fabric</materials>
+        <furnishing> </furnishing>
     </mag>
     
     <mag>
         <ptr target=""/>
         <roomType>kitchen</roomType>
-        <colors>white, black</colors>
+        <colors></colors>
         <style>minimalist</style>
         <materials>marble, metal</materials>
     </mag>
@@ -21,15 +22,15 @@
     <mag>
         <ptr target=""/>
         <roomType>bedroom</roomType>
-        <colors>beige, brown</colors>
+        <colors></colors>
         <style>rustic</style>
         <materials>wood</materials>
     </mag>
     
     <mag>
-        <ptr target="bathroom1.jpg"/>
+        <ptr target=""/>
         <roomType>bathroom</roomType>
-        <colors>white, gray</colors>
+        <colors></colors>
         <style>modern</style>
         <materials>marble, glass</materials>
     </mag>

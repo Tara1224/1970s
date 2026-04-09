@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<colors>
+    <color>
+        <name>Sea Turtle</name>
+        <hex>#828a41</hex>
+        <source>Dunn-Edwards</source>
+    </color>
+
+    <color>
+        <name>Monarch Migration</name>
+        <hex>#bf764d</hex>
+        <source>Dunn-Edwards</source>
+    </color>
+
+    <color>
+        <name>Old Boot</name>
+        <hex>#7c644a</hex>
+        <source>Dunn-Edwards</source>
+    </color>
+
+    <color>
+        <name>Sunny Disposition</name>
+        <hex>#dba538</hex>
+        <source>Dunn-Edwards</source>
+    </color>
+
+    <color>
+        <name>Aged Whisky</name>
+        <hex>#9c7147</hex>
+        <source>Dunn-Edwards</source>
+    </color>
+
+    <color>
+        <name>Friar Tuck</name>
+        <hex>#ddba94</hex>
+        <source>Dunn-Edwards</source>
+    </color>
+
+    <color>
+        <name>Chocolate Brown</name>
+        <hex>#5A3A22</hex>
+        <source>DesigningArchitecture</source>
+    </color>
+
+    <color>
+        <name>Harvest Gold</name>
+        <hex>#E6BE8A</hex>
+        <source>DesigningArchitecture</source>
+    </color>
+
+    <color>
+        <name>Terracotta</name>
+        <hex>#A95C37</hex>
+        <source>DesigningArchitecture</source>
+    </color>
+
+    <color>
+        <name>Caramel</name>
+        <hex>#C68E3F</hex>
+        <source>DesigningArchitecture</source>
+    </color>
+
+    <color>
+        <name>Sand Beige</name>
+        <hex>#D4C5B1</hex>
+        <source>DesigningArchitecture</source>
+    </color>
+
+    <color>
+        <name>Avocado Green</name>
+        <hex>#568203</hex>
+        <source>DesigningArchitecture</source>
+    </color>
+
+    <color>
+        <name>Mustard Yellow</name>
+        <hex>#E3A857</hex>
+        <source>DesigningArchitecture</source>
+    </color>
+
+    <color>
+        <name>Burnt Orange</name>
+        <hex>#BF5700</hex>
+        <source>DesigningArchitecture</source>
+    </color>
+
+    <color>
+        <name>Olive Green</name>
+        <hex>#556B2F</hex>
+        <source>DesigningArchitecture</source>
+    </color>
+
+    <color>
+        <name>Teal Blue</name>
+        <hex>#00747C</hex>
+        <source>DesigningArchitecture</source>
+    </color>
+
+    <color>
+        <name>Hot Pink</name>
+        <hex>#FF69B4</hex>
+        <source>DesigningArchitecture</source>
+    </color>
+
+    <color>
+        <name>Electric Blue</name>
+        <hex>#0072BB</hex>
+        <source>DesigningArchitecture</source>
+    </color>
+
+    <color>
+        <name>Violet Purple</name>
+        <hex>#7F00FF</hex>
+        <source>DesigningArchitecture</source>
+    </color>
+
+    <color>
+        <name>Chrome Orange</name>
+        <hex>#FF9E2B</hex>
+        <source>PeakD</source>
+    </color>
+
+    <color>
+        <name>Tangerine</name>
+        <hex>#F28500</hex>
+        <source>PeakD</source>
+    </color>
+
+    <color>
+        <name>Red Lead</name>
+        <hex>#BF3B26</hex>
+        <source>PeakD</source>
+    </color>
+
+    <color>
+        <name>Vermilion</name>
+        <hex>#E34234</hex>
+        <source>PeakD</source>
+    </color>
+
+    <color>
+        <name>Buff</name>
+        <hex>#E6AC73</hex>
+        <source>PeakD</source>
+    </color>
+
+    <color>
+        <name>Curry Yellow</name>
+        <hex>#E9DA89</hex>
+        <source>PeakD</source>
+    </color>
+
+    <color>
+        <name>Mustard</name>
+        <hex>#FFDB58</hex>
+        <source>PeakD</source>
+    </color>
+
+    <color>
+        <name>Olive</name>
+        <hex>#808000</hex>
+        <source>PeakD</source>
+    </color>
+
+    <color>
+        <name>Sky Blue</name>
+        <hex>#87CEEB</hex>
+        <source>PeakD</source>
+    </color>
+
+    <color>
+        <name>Babydoll Pink</name>
+        <hex>#E48BB5</hex>
+        <source>PeakD</source>
+    </color>
+
+    <color>
+        <name>Denim Blue</name>
+        <hex>#00416C</hex>
+        <source>PeakD</source>
+    </color>
+
+</colors>
