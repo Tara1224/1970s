@@ -1,47 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<!-- 2026-04-02 ebb: From meeting today, suggested new elements:
-*  <colorScheme> vs. <accentColor>
-* <flooring> (to help comment on carpeting vs. hard wood vs. linoleum)
-* <furnishing>
-* <window>
-* <technology> (rotary phone / dishwasher / washer and dryer / home computer present?)
-
--->
-
 <collection>
-    
+
     <mag>
-        <ptr target=""/>
+        <ptr target="unknown.jpg"/>
         <roomType>living room</roomType>
-        <colors></colors>
-        <style>modern</style>
+        <colorScheme>
+            <colorRef>Burnt Orange</colorRef>
+            <colorRef>Sea Turtle</colorRef>
+        </colorScheme>
+        <accentColor>
+            <colorRef>Tangerine</colorRef>
+        </accentColor>
+        <style>1970s</style>
         <materials>wood, fabric</materials>
-        <furnishing> </furnishing>
+        <flooring>carpet</flooring>
+        <furnishing>sofa</furnishing>
+        <window>small with blinds</window>
+        <technology>television</technology>
     </mag>
-    
-    <mag>
-        <ptr target=""/>
-        <roomType>kitchen</roomType>
-        <colors></colors>
-        <style>minimalist</style>
-        <materials>marble, metal</materials>
-    </mag>
-    
-    <mag>
-        <ptr target=""/>
-        <roomType>bedroom</roomType>
-        <colors></colors>
-        <style>rustic</style>
-        <materials>wood</materials>
-    </mag>
-    
-    <mag>
-        <ptr target=""/>
-        <roomType>bathroom</roomType>
-        <colors></colors>
-        <style>modern</style>
-        <materials>marble, glass</materials>
-    </mag>
-    
 </collection>

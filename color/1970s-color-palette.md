@@ -9,4 +9,4 @@ https://designingarchitecture.com/1970s-color-palette/
 
 PeakD / GitHub palette:
 https://peakd.com/hive-161657/@bartman67/colors-of-the-1970s
-Text
+
