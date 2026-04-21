@@ -37,7 +37,7 @@ The images used in this project come from published magazines and are copyrighte
 ## Magazines Used
 
 - Architectural Digest 1975, 1977, 1978
-- Better Homes and Gardens...
+- Better Homes & Gardens Archive (1970s collection, online)
 
 ---
 
@@ -48,9 +48,33 @@ The images used in this project come from published magazines and are copyrighte
 - Be more selective with images and focus on clear room/interior shots   
 - Refine and standardize category terms    
  
+## Finding Aid (Research Sources)
+
+This section documents the physical and digital sources used to extract 1970s design language and material terminology.
 
 ---
+### Physical Stack
+- Architectural Digest (July/August 1975)
+- Architectural Digest (March 1977)
+- Architectural Digest (May/June 1977)
+- Architectural Digest (March 1978)
 
+
+**Use in project:**
+These issues are used for extracting authentic 1970s interior design vocabulary, especially:
+- material descriptions (laminates, plastics, textiles, composites)
+- color
+- furniture and surface terminology
+
+### Online Resources
+- Better Homes & Gardens Archive  
+https://archive.bhg.com/
+
+**Use in project:**
+This archive is used to study how 1970s home design was communicated to consumers. It is especially useful for:
+- kitchen and surface materials (e.g., laminate, vinyl, ceramic composites)
+- color + material pairings common in consumer interiors
+-  language used in household design marketing
 ## Repository Contents
 
 - Image files  

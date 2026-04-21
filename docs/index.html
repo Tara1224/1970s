@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>1970s Home Collection</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    
+    <body>
+        
+        <header class="hero">
+            <h1>1970s Home Collection</h1>
+            <p class="tagline">Interior design language & material culture archive</p>
+        </header>
+        
+        <nav class="navbar">
+            <a href="#">Home</a>
+            <a href="#">Overview</a>
+            <a href="#">Data</a>
+            <a href="#">Ontology</a>
+        </nav>
+        
+        <main class="container">
+            
+            <section class="section alt">
+                <h2>Overview</h2>
+                <p>
+                    This project explores how 1970s interior design images from magazines can be organized using structured descriptive categories.
+                    Rather than focusing only on visuals, the project analyzes how design is described through language.
+                </p>
+            </section>
+            
+            <section class="section alt">
+                <h2>Data Collection</h2>
+                <ul>
+                    <li>Architectural Digest</li>
+                    <li>Better Homes and Gardens</li>
+                </ul>
+                <p>
+                    Each image represents a room or interior space. The goal is to organize and describe them in a consistent, searchable way.
+                </p>
+            </section>
+            
+            <section class="section">
+                <h2>Archive Preview</h2>
+                
+                <div class="image-grid">
+                    
+                    <div class="image-card">
+                        <img src="images/living-room.jpg" alt="image of 1970s living room">
+                        <h3>Living Room</h3>
+                        <p>Green, wood, modern</p>
+                    </div>
+                    
+                    <div class="image-card">
+                        <img src="images/kitchen.jpg" alt="image of 1970s kitchen">
+                        <h3>Kitchen</h3>
+                        <p>Orange laminate, vinyl</p>
+                    </div>
+                    
+                    <div class="image-card">
+                        <img src="images/blank.jpg" alt="placeholder">
+                        <h3>Bedroom</h3>
+                        <p>Beige, fabric, soft textures</p>
+                    </div>
+                    
+                </div>
+            </section>
+            
+            <section class="section alt">
+                <h2>Ontology</h2>
+                
+                <div class="ontology-grid">
+                    
+                    <div class="ontology-card">
+                        <img src="images/room.jpg" alt="">
+                        <h3>Room Type</h3>
+                        <p>Living room, kitchen, bedroom, bathroom</p>
+                    </div>
+                    
+                    <div class="ontology-card">
+                        <img src="images/paint.jpg" alt="image of paint bucket">
+                        <h3>Colors</h3>
+                        <p>Red, orange, yellow, green, earth tones</p>
+                    </div>
+                    
+                    <div class="ontology-card">
+                        <img src="images/light.jpg" alt="image of lamp">
+                        <h3>Style</h3>
+                        <p>Modern, rustic, minimalist, vintage</p>
+                    </div>
+                    
+                    <div class="ontology-card">
+                        <img src="images/flooring.jpg" alt="image of wood flooring">
+                        <h3>Materials</h3>
+                        <p>Wood, marble, glass, metal</p>
+                    </div>
+                    
+                    <div class="ontology-card">
+                        <img src="images/furniture.jpg" alt="image of a couch">
+                        <h3>Furniture</h3>
+                        <p>Table, couch, bed, chair</p>
+                    </div>
+                    
+                </div>
+            </section>
+            
+            <section class="section">
+                <h2>Data Structure (XML Example)</h2>
+                
+                <pre class="code-block">
+&lt;mag&gt;
+    &lt;ptr target="image1.jpg"/&gt;
+    &lt;roomType&gt;living room&lt;/roomType&gt;
+    &lt;colors&gt;green, beige&lt;/colors&gt;
+    &lt;style&gt;modern&lt;/style&gt;
+    &lt;materials&gt;wood, fabric&lt;/materials&gt;
+&lt;/mag&gt;
+        </pre>
+            </section>
+            
+        </main>
+        
+        <footer>
+            <p>1970s Home Collection © 2026</p>
+        </footer>
+        
+    </body>
+</html>

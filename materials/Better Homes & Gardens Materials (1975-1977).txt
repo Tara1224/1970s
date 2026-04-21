@@ -1,0 +1,53 @@
+- Material: Vinyl  
+  - Definition: synthetic plastic material used for flooring, wall coverings, and upholstery  
+  - Source: Better Homes & Gardens Archive  
+  - Page: 2  
+  - Year: 1975  
+
+- Material: Congoleum  
+  - Definition: resilient flooring material developed as a durable alternative to linoleum  
+  - Source: Better Homes & Gardens Archive  
+  - Page: 45  
+  - Year: 1977  
+
+- Material: Leather  
+  - Definition: natural material made from treated animal hide, used in upholstery and furniture  
+  - Source: Better Homes & Gardens Archive  
+  - Page: 87  
+  - Year: 1977  
+
+- Material: Paneling  
+  - Definition: wall covering made from wood or synthetic boards used for interior finishes  
+  - Source: Better Homes & Gardens Archive  
+  - Page: 89  
+  - Year: 1977  
+
+- Material: Vanguard Vinyl Siding  
+  - Definition: exterior synthetic siding material used for residential construction  
+  - Source: Better Homes & Gardens Archive  
+  - Page: 93  
+  - Year: 1977  
+
+- Material: Redwood  
+  - Definition: durable softwood commonly used in construction and outdoor structures  
+  - Source: Better Homes & Gardens Archive  
+  - Page: 118  
+  - Year: 1977  
+
+- Material: Asphalt  
+  - Definition: petroleum-based material used for roofing and paving  
+  - Source: Better Homes & Gardens Archive  
+  - Page: 225  
+  - Year: 1977  
+
+- Material: Plastic  
+  - Definition: synthetic polymer material used widely in household and industrial design  
+  - Source: Better Homes & Gardens Archive  
+  - Page: 225  
+  - Year: 1977  
+
+- Material: Wood  
+  - Definition: natural fibrous material from trees used in construction and furniture  
+  - Source: Better Homes & Gardens Archive  
+  - Page: 225  
+  - Year: 1977  

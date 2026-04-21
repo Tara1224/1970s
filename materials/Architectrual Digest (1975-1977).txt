@@ -1,0 +1,83 @@
+- Material: Wood  
+  - Definition: natural construction material used for furniture and interior finishes  
+  - Source: Architectural Digest  
+  - Page: 225  
+  - Year: 1977  
+
+- Material: Rosewood  
+  - Definition: dark, dense hardwood often used in high-end furniture and design pieces  
+  - Source: Architectural Digest  
+  - Page: 1  
+  - Year: 1977  
+
+- Material: Canvas  
+  - Definition: heavy woven fabric used for upholstery and artistic applications  
+  - Source: Architectural Digest  
+  - Page: 18  
+  - Year: 1977  
+
+- Material: Ceramic  
+  - Definition: fired clay material used in tiles, objects, and decorative surfaces  
+  - Source: Architectural Digest  
+  - Page: 23  
+  - Year: 1977  
+
+- Material: Mahogany  
+  - Definition: reddish-brown hardwood used in luxury furniture and paneling  
+  - Source: Architectural Digest  
+  - Page: 22  
+  - Year: 1977  
+
+- Material: Glass  
+  - Definition: transparent or translucent material used in windows, furniture, and decor  
+  - Source: Architectural Digest  
+  - Page: 26  
+  - Year: 1977  
+
+- Material: Acrylic  
+  - Definition: clear synthetic plastic used as a glass alternative in design objects  
+  - Source: Architectural Digest  
+  - Page: 38  
+  - Year: 1977  
+
+- Material: Wool  
+  - Definition: natural textile fiber used in rugs, upholstery, and fabrics  
+  - Source: Architectural Digest  
+  - Page: 44  
+  - Year: 1977  
+
+- Material: Bamboo  
+  - Definition: fast-growing natural plant material used in furniture and decor  
+  - Source: Architectural Digest  
+  - Page: 160  
+  - Year: 1977  
+
+- Material: Tortoise Shell  
+  - Definition: decorative material historically used in luxury furniture and accessories  
+  - Source: Architectural Digest  
+  - Page: 160  
+  - Year: 1977  
+
+- Material: Bone  
+  - Definition: natural material used decoratively in inlays and furniture design  
+  - Source: Architectural Digest  
+  - Page: 160  
+  - Year: 1977  
+
+- Material: Malachite  
+  - Definition: green mineral used decoratively in luxury design objects  
+  - Source: Architectural Digest  
+  - Page: 160  
+  - Year: 1977  
+
+- Material: Ivory  
+  - Definition: natural material historically used in decorative luxury objects  
+  - Source: Architectural Digest  
+  - Page: 160  
+  - Year: 1977  
+
+- Material: Velvet  
+  - Definition: soft woven textile with a dense pile used in upholstery and drapery  
+  - Source: Architectural Digest  
+  - Page: 170  
+  - Year: 1977  
