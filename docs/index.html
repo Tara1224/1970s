@@ -5,109 +5,112 @@
         <title>1970s Home Collection</title>
         <link rel="stylesheet" href="style.css">
     </head>
-    
+
     <body>
-        
+
         <header class="hero">
             <h1>1970s Home Collection</h1>
+            <p class="system-line"> A structured archive system for decoding 1970s interior design
+                language. </p>
             <p class="tagline">Interior design language & material culture archive</p>
         </header>
-        
+
+
         <nav class="navbar">
-            <a href="#">Home</a>
-            <a href="#">Overview</a>
-            <a href="#">Data</a>
-            <a href="#">Ontology</a>
+            <a href="#overview">Overview</a>
+            <a href="#data">Data Collection</a>
+            <a href="#archive">Archive Preview</a>
+            <a href="#ontology">Ontology</a>
+            <a href="#future">Future Development</a>
+            <a href="#sources">Sources</a>
         </nav>
-        
+
         <main class="container">
-            
-            <section class="section alt">
+
+            <section class="section section-card" id="overview">
                 <h2>Overview</h2>
-                <p>
-                    This project explores how 1970s interior design images from magazines can be organized using structured descriptive categories.
-                    Rather than focusing only on visuals, the project analyzes how design is described through language.
-                </p>
+                <p> This project explores how 1970s interior design images from magazines can be
+                    organized using structured descriptive categories. Rather than focusing only on
+                    visuals, the project analyzes how design is described through language. </p>
             </section>
-            
-            <section class="section alt">
+
+            <section class="section section-muted" id="data">
                 <h2>Data Collection</h2>
                 <ul>
                     <li>Architectural Digest</li>
                     <li>Better Homes and Gardens</li>
                 </ul>
-                <p>
-                    Each image represents a room or interior space. The goal is to organize and describe them in a consistent, searchable way.
-                </p>
+                <p> Each image represents a room or interior space. The goal is to organize and
+                    describe them in a consistent, searchable way. </p>
             </section>
-            
-            <section class="section">
+
+            <section class="section section-primary" id="archive">
                 <h2>Archive Preview</h2>
-                
+
                 <div class="image-grid">
-                    
+
                     <div class="image-card">
                         <img src="images/living-room.jpg" alt="image of 1970s living room">
                         <h3>Living Room</h3>
                         <p>Green, wood, modern</p>
                     </div>
-                    
+
                     <div class="image-card">
                         <img src="images/kitchen.jpg" alt="image of 1970s kitchen">
                         <h3>Kitchen</h3>
                         <p>Orange laminate, vinyl</p>
                     </div>
-                    
+
                     <div class="image-card">
-                        <img src="images/bathroom-better-homes-and-gardens.jpg" alt="image of 1970s bathroom">
+                        <img src="images/bedroom.JPG" alt="image of 1970s bedroom">
                         <h3>Bedroom</h3>
                         <p>Beige, fabric, soft textures</p>
                     </div>
-                    
+
                 </div>
             </section>
-            
-            <section class="section alt">
+
+            <section class="section section-support" id="ontology">
                 <h2>Ontology</h2>
-                
+
                 <div class="ontology-grid">
-                    
+
                     <div class="ontology-card">
-                        <img src="images/room.jpg" alt="">
+                        <img src="images/room-type.png" alt="icon of empty room">
                         <h3>Room Type</h3>
                         <p>Living room, kitchen, bedroom, bathroom</p>
                     </div>
-                    
+
                     <div class="ontology-card">
-                        <img src="images/paint.jpg" alt="image of paint bucket">
+                        <img src="images/colors.png" alt="icon of atrists plastic palette ">
                         <h3>Colors</h3>
                         <p>Red, orange, yellow, green, earth tones</p>
                     </div>
-                    
+
                     <div class="ontology-card">
-                        <img src="images/light.jpg" alt="image of lamp">
+                        <img src="images/style.png" alt="icon of paint brush">
                         <h3>Style</h3>
                         <p>Modern, rustic, minimalist, vintage</p>
                     </div>
-                    
+
                     <div class="ontology-card">
-                        <img src="images/flooring.jpg" alt="image of wood flooring">
+                        <img src="images/material.png" alt="icon of fabric materials">
                         <h3>Materials</h3>
                         <p>Wood, marble, glass, metal</p>
                     </div>
-                    
+
                     <div class="ontology-card">
-                        <img src="images/furniture.jpg" alt="image of a couch">
+                        <img src="images/furniture.png" alt="icon of couch and clothing cabninet">
                         <h3>Furniture</h3>
                         <p>Table, couch, bed, chair</p>
                     </div>
-                    
+
                 </div>
             </section>
-            
-            <section class="section">
-                <h2>Data Structure (XML Example)</h2>
-                
+
+            <section class="section section-support" id="structure">
+                <h2>Data Structure</h2>
+
                 <pre class="code-block">
 &lt;mag&gt;
     &lt;ptr target="image1.jpg"/&gt;
@@ -118,12 +121,166 @@
 &lt;/mag&gt;
         </pre>
             </section>
-            
+            <section class="section section-muted" id="future">
+
+                <h2>Future Development</h2>
+
+                <p> The archive is treated as a living system that continues to evolve through
+                    research, expansion, and structural refinement. This section outlines the
+                    ongoing directions that guide its development. </p>
+
+                <div class="ontology-grid">
+                    <div class="ontology-card">
+
+                        <img src="images/annotations.png"
+                            alt="icon representing annotations on a piece of paper for research and analysis">
+
+                        <h3>Ongoing Research</h3>
+
+                        <p> Continued study of 1970s magazines and design materials helps refine
+                            accuracy and deepen understanding of terminology, style, and historical
+                            context. </p>
+
+                    </div>
+
+                    <div class="ontology-card">
+
+                        <img src="images/stacked-books.png"
+                            alt="icon representing stacked magazines for archive expansion and collection building">
+
+                        <h3>Archive Expansion</h3>
+
+                        <p> The archive grows through the addition of new interiors, categorized
+                            examples, and visual documentation drawn from magazines and historical
+                            sources. </p>
+
+                    </div>
+
+                    <div class="ontology-card">
+
+                        <img src="images/blueprint.png"
+                            alt="icon representing a blueprint for system and website evolution">
+
+                        <h3>System Evolution</h3>
+
+                        <p> The website continues to develop as a structured digital archive,
+                            improving navigation, layout systems, and interactive presentation of
+                            data. </p>
+
+                    </div>
+
+                </div>
+
+            </section>
+
+            <section class="section section-muted" id="sources">
+
+                <h2>Sources</h2>
+
+                <p> This archive is built from a combination of digital magazine archives, physical
+                    design references, and icon assets used for ontology classification and visual
+                    structure. </p>
+
+                <h3>Icon Credits (Ontology System)</h3>
+
+                <p> Icons used in the ontology system are sourced from Flaticon and attributed to
+                    their respective creators. </p>
+
+                <ul>
+
+                    <li>
+                        <strong>Colors:</strong> Color icons created by See Icons — <a
+                            href="https://www.flaticon.com/free-icons/color" target="_blank"
+                            rel="noopener"> Flaticon source </a>
+                    </li>
+
+                    <li>
+                        <strong>Flooring:</strong> Floor icons created by Freepik — <a
+                            href="https://www.flaticon.com/free-icons/floor" target="_blank"
+                            rel="noopener"> Flaticon source </a>
+                    </li>
+
+                    <li>
+                        <strong>Furniture:</strong> Home furniture icons created by Graphix's Art —
+                            <a href="https://www.flaticon.com/free-icons/home-furniture"
+                            target="_blank" rel="noopener"> Flaticon source </a>
+                    </li>
+
+                    <li>
+                        <strong>Materials:</strong> Material icons created by Three Musketeers — <a
+                            href="https://www.flaticon.com/free-icons/material" target="_blank"
+                            rel="noopener"> Flaticon source </a>
+                    </li>
+
+                    <li>
+                        <strong>Room Type:</strong> Paint brush icons created by Freepik — <a
+                            href="https://www.flaticon.com/free-icons/paint-brush" target="_blank"
+                            rel="noopener"> Flaticon source </a>
+                    </li>
+                    <li>
+                        <strong>Ongoing Research:</strong> Document icons created by Freepik — <a
+                            href="https://www.flaticon.com/free-icons/document" target="_blank"
+                            rel="noopener"> Flaticon source </a>
+                    </li>
+
+                    <li>
+                        <strong>Archive Expansion:</strong> Book icons created by mikan933 — <a
+                            href="https://www.flaticon.com/free-icons/book" target="_blank"
+                            rel="noopener"> Flaticon source </a>
+                    </li>
+
+                    <li>
+                        <strong>System Evolution:</strong> Prototype icons created by wanicon — <a
+                            href="https://www.flaticon.com/free-icons/prototype" target="_blank"
+                            rel="noopener"> Flaticon source </a>
+                    </li>
+
+                </ul>
+
+                <h3>Magazine & Archive Sources</h3>
+
+                <ul>
+
+                    <li>
+                        <i>Better Homes & Gardens Archive</i> (digital collection, accessed via <a
+                            href="https://archive.bhg.com/" target="_blank" rel="noopener">
+                            https://archive.bhg.com/ </a>) — used for visual and textual reference
+                        of 1970s domestic interiors and design language. </li>
+
+                    <li>
+                        <i>Architectural Digest</i> — reference material from physical magazine
+                        issues used for the study of interior design composition, spatial layout,
+                        and material usage in domestic environments. </li>
+
+                </ul>
+
+            </section>
         </main>
-        
         <footer>
-            <p>1970s Home Collection © 2026</p>
+            <h3 style="text-align:center;">
+                <b>Contacts</b>
+            </h3>
+
+            <p style="text-align:center;"> Creator: Tara McGee | tem5597@psu.edu <br /> Professor:
+                Elisa Beshero-Bonder | eeb4@psu.edu<br />
+            </p>
+
+            <p style="text-align:center;">
+                <a href="https://example.com">Tara DIGIT 210 Website</a><br /> 1970s Home Collection
+                © 2026 by 1970s Home Collection Time is licensed under <a
+                    href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0 License</a>
+                <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg"
+                    alt="Creative Commons license icon"
+                    style="max-width: 1em; max-height:1em; margin-left: .2em;" />
+            </p>
+
+            <p style="text-align:center;">
+                <a href="https://github.com/Tara1224/1970s" target="_blank" rel="noopener">
+                    <img src="images/git.png" width="30" alt="GitHub Logo" />
+                </a>
+            </p>
         </footer>
-        
+
+
     </body>
 </html>
