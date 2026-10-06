@@ -250,3 +250,13 @@ footer img:hover {
     transform: scale(1.1);
     opacity: 0.85;
 }
+/* =========================================================
+   JS EXPERIMENT
+=====*/
+.feature {
+    display: none;
+}
+
+.feature.on {
+    display: block;
+}
