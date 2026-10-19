@@ -26,3 +26,24 @@ function toggleInfo() {
     designText.style.display = "none";
   }
 }
+
+const changeArtButton = document.getElementById("change-art");
+const retroArt = document.getElementById("retro-art");
+
+if (changeArtButton && retroArt) {
+  changeArtButton.addEventListener("click", function () {
+    const shapes = retroArt.querySelectorAll("circle, .hover-shape");
+
+    shapes.forEach(function (shape) {
+      const currentColor = shape.getAttribute("fill");
+
+      if (currentColor === "#c46b3c") {
+        shape.setAttribute("fill", "#6b8e23");
+      } else if (currentColor === "#6b8e23") {
+        shape.setAttribute("fill", "#a94f2d");
+      } else {
+        shape.setAttribute("fill", "#c46b3c");
+      }
+    });
+  });
+}

@@ -260,3 +260,47 @@ footer img:hover {
 .feature.on {
     display: block;
 }
+
+/* =========================================================
+   svg experiment
+=====*/
+#retro-svg {
+    margin: 30px auto;
+    padding: 25px;
+    max-width: 800px;
+    text-align: center;
+}
+
+#retro-art {
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+}
+
+.hover-shape {
+    cursor: pointer;
+    transition: transform 0.3s ease, opacity 0.3s ease;
+    transform-box: fill-box;
+    transform-origin: center;
+}
+
+.hover-shape:hover {
+    transform: scale(1.15);
+    opacity: 0.75;
+}
+
+#change-art {
+    background-color: #c46b3c;
+    color: white;
+    border: none;
+    padding: 10px 18px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#change-art:hover {
+    background-color: #a94f2d;
+}
+

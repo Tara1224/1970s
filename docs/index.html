@@ -4,7 +4,7 @@
         <meta charset="UTF-8">
         <title>1970s Home Collection</title>
         <link rel="stylesheet" href="style.css">
-            <script src="interiorToggle.js"></script>
+            <script src="interiorToggle.js" defer></script>
     </head>
 
     <body>
@@ -124,7 +124,38 @@
     </div>
 
 </section>
+<section id="retro-svg">
+  <h2>Retro Geometry</h2>
+  <p>Explore shapes inspired by 1970s interior design.</p>
 
+  <svg id="retro-art"
+       xmlns="http://www.w3.org/2000/svg"
+       viewBox="0 0 400 220"
+       role="img"
+       aria-label="Animated retro geometric shapes">
+
+    <rect width="400" height="220" fill="#f4ead8" rx="12"/>
+
+    <circle cx="100" cy="110" r="35" fill="#c46b3c">
+      <animate attributeName="r"
+               values="35;48;35"
+               dur="3s"
+               repeatCount="indefinite"/>
+    </circle>
+
+    <rect class="hover-shape"
+          x="175" y="75"
+          width="70" height="70"
+          fill="#6b8e23"/>
+
+    <ellipse class="hover-shape"
+             cx="315" cy="110"
+             rx="32" ry="48"
+             fill="#a94f2d"/>
+  </svg>
+
+  <button id="change-art">Change the Colors</button>
+</section>
 <section class="section section-support" id="ontology">
     <h2>Ontology</h2>
 
@@ -336,6 +367,6 @@
             </p>
         </footer>
 
-
     </body>
 </html>
+
